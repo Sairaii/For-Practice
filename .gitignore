@@ -513,6 +513,7 @@ local.properties
 *.so.*
 *.dll
 *.dylib
+*.vsidx
 
 # Qt-es
 object_script.*.Release
