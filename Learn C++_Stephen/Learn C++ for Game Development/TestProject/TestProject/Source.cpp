@@ -85,7 +85,8 @@ int main()
 
 Species::Species()
 {
-        /** THIS IS GITHUB SEMIPROTOTYPE*/
+        /** THIS IS MERGE CONFLICT OCCUR*/
+    bool IsValid = true;
 }
 
 float Species::SetHealth(float health)
