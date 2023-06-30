@@ -20,7 +20,6 @@ int main()
     int a = 1;
     string b = "Hello";
 
-    /** THIS IS A TEST FOR GITHUB REPO*/
     int testnumber1 = 10;
 
     AddOne(a);
